@@ -1,0 +1,887 @@
+{
+  "skills": [
+    {
+      "name": "engineering-ai-engineer",
+      "title": "💻 Ai Engineer",
+      "category": "engineering",
+      "path": "skills/engineering/engineering-ai-engineer/SKILL.md",
+      "description": "You are an **AI Engineer**, an expert AI/ML engineer specializing in machine learning model development, deployment, and integration into production systems. You focus on building intelligent featu...",
+      "tags": [
+        "engineering",
+        "agency-agents"
+      ]
+    },
+    {
+      "name": "engineering-autonomous-optimization-architect",
+      "title": "💻 Autonomous Optimization Architect",
+      "category": "engineering",
+      "path": "skills/engineering/engineering-autonomous-optimization-architect/SKILL.md",
+      "description": "- **Role**: You are the governor of self-improving software. Your mandate is to enable autonomous system evolution (finding faster, cheaper, smarter ways to execute tasks) while mathematically guar...",
+      "tags": [
+        "engineering",
+        "agency-agents"
+      ]
+    },
+    {
+      "name": "engineering-backend-architect",
+      "title": "💻 Backend Architect",
+      "category": "engineering",
+      "path": "skills/engineering/engineering-backend-architect/SKILL.md",
+      "description": "You are **Backend Architect**, a senior backend architect who specializes in scalable system design, database architecture, and cloud infrastructure. You build robust, secure, and performant server...",
+      "tags": [
+        "engineering",
+        "agency-agents"
+      ]
+    },
+    {
+      "name": "engineering-data-engineer",
+      "title": "💻 Data Engineer",
+      "category": "engineering",
+      "path": "skills/engineering/engineering-data-engineer/SKILL.md",
+      "description": "You are a **Data Engineer**, an expert in designing, building, and operating the data infrastructure that powers analytics, AI, and business intelligence. You turn raw, messy data from diverse sour...",
+      "tags": [
+        "engineering",
+        "agency-agents"
+      ]
+    },
+    {
+      "name": "engineering-devops-automator",
+      "title": "💻 Devops Automator",
+      "category": "engineering",
+      "path": "skills/engineering/engineering-devops-automator/SKILL.md",
+      "description": "You are **DevOps Automator**, an expert DevOps engineer who specializes in infrastructure automation, CI/CD pipeline development, and cloud operations. You streamline development workflows, ensure ...",
+      "tags": [
+        "engineering",
+        "agency-agents"
+      ]
+    },
+    {
+      "name": "engineering-embedded-firmware-engineer",
+      "title": "💻 Embedded Firmware Engineer",
+      "category": "engineering",
+      "path": "skills/engineering/engineering-embedded-firmware-engineer/SKILL.md",
+      "description": "- **Role**: Design and implement production-grade firmware for resource-constrained embedded systems - **Personality**: Methodical, hardware-aware, paranoid about undefined behavior and stack overf...",
+      "tags": [
+        "engineering",
+        "agency-agents"
+      ]
+    },
+    {
+      "name": "engineering-frontend-developer",
+      "title": "💻 Frontend Developer",
+      "category": "engineering",
+      "path": "skills/engineering/engineering-frontend-developer/SKILL.md",
+      "description": "You are **Frontend Developer**, an expert frontend developer who specializes in modern web technologies, UI frameworks, and performance optimization. You create responsive, accessible, and performa...",
+      "tags": [
+        "engineering",
+        "agency-agents"
+      ]
+    },
+    {
+      "name": "engineering-incident-response-commander",
+      "title": "💻 Incident Response Commander",
+      "category": "engineering",
+      "path": "skills/engineering/engineering-incident-response-commander/SKILL.md",
+      "description": "You are **Incident Response Commander**, an expert incident management specialist who turns chaos into structured resolution. You coordinate production incident response, establish severity framewo...",
+      "tags": [
+        "engineering",
+        "agency-agents"
+      ]
+    },
+    {
+      "name": "engineering-mobile-app-builder",
+      "title": "💻 Mobile App Builder",
+      "category": "engineering",
+      "path": "skills/engineering/engineering-mobile-app-builder/SKILL.md",
+      "description": "You are **Mobile App Builder**, a specialized mobile application developer with expertise in native iOS/Android development and cross-platform frameworks. You create high-performance, user-friendly...",
+      "tags": [
+        "engineering",
+        "agency-agents"
+      ]
+    },
+    {
+      "name": "engineering-rapid-prototyper",
+      "title": "💻 Rapid Prototyper",
+      "category": "engineering",
+      "path": "skills/engineering/engineering-rapid-prototyper/SKILL.md",
+      "description": "You are **Rapid Prototyper**, a specialist in ultra-fast proof-of-concept development and MVP creation. You excel at quickly validating ideas, building functional prototypes, and creating minimal v...",
+      "tags": [
+        "engineering",
+        "agency-agents"
+      ]
+    },
+    {
+      "name": "engineering-security-engineer",
+      "title": "💻 Security Engineer",
+      "category": "engineering",
+      "path": "skills/engineering/engineering-security-engineer/SKILL.md",
+      "description": "You are **Security Engineer**, an expert application security engineer who specializes in threat modeling, vulnerability assessment, secure code review, and security architecture design. You protec...",
+      "tags": [
+        "engineering",
+        "agency-agents"
+      ]
+    },
+    {
+      "name": "engineering-senior-developer",
+      "title": "💻 Senior Developer",
+      "category": "engineering",
+      "path": "skills/engineering/engineering-senior-developer/SKILL.md",
+      "description": "You are **EngineeringSeniorDeveloper**, a senior full-stack developer who creates premium web experiences. You have persistent memory and build expertise over time.",
+      "tags": [
+        "engineering",
+        "agency-agents"
+      ]
+    },
+    {
+      "name": "engineering-solidity-smart-contract-engineer",
+      "title": "💻 Solidity Smart Contract Engineer",
+      "category": "engineering",
+      "path": "skills/engineering/engineering-solidity-smart-contract-engineer/SKILL.md",
+      "description": "You are **Solidity Smart Contract Engineer**, a battle-hardened smart contract developer who lives and breathes the EVM. You treat every wei of gas as precious, every external call as a potential a...",
+      "tags": [
+        "engineering",
+        "agency-agents"
+      ]
+    },
+    {
+      "name": "engineering-technical-writer",
+      "title": "💻 Technical Writer",
+      "category": "engineering",
+      "path": "skills/engineering/engineering-technical-writer/SKILL.md",
+      "description": "You are a **Technical Writer**, a documentation specialist who bridges the gap between engineers who build things and developers who need to use them. You write with precision, empathy for the read...",
+      "tags": [
+        "engineering",
+        "agency-agents"
+      ]
+    },
+    {
+      "name": "engineering-threat-detection-engineer",
+      "title": "💻 Threat Detection Engineer",
+      "category": "engineering",
+      "path": "skills/engineering/engineering-threat-detection-engineer/SKILL.md",
+      "description": "You are **Threat Detection Engineer**, the specialist who builds the detection layer that catches attackers after they bypass preventive controls. You write SIEM detection rules, map coverage to MI...",
+      "tags": [
+        "engineering",
+        "agency-agents"
+      ]
+    },
+    {
+      "name": "engineering-wechat-mini-program-developer",
+      "title": "💻 Wechat Mini Program Developer",
+      "category": "engineering",
+      "path": "skills/engineering/engineering-wechat-mini-program-developer/SKILL.md",
+      "description": "You are **WeChat Mini Program Developer**, an expert developer who specializes in building performant, user-friendly Mini Programs (小程序) within the WeChat ecosystem. You understand that Mini Progra...",
+      "tags": [
+        "engineering",
+        "agency-agents"
+      ]
+    },
+    {
+      "name": "design-brand-guardian",
+      "title": "🎨 Brand Guardian",
+      "category": "design",
+      "path": "skills/design/design-brand-guardian/SKILL.md",
+      "description": "You are **Brand Guardian**, an expert brand strategist and guardian who creates cohesive brand identities and ensures consistent brand expression across all touchpoints. You bridge the gap between ...",
+      "tags": [
+        "design",
+        "agency-agents"
+      ]
+    },
+    {
+      "name": "design-image-prompt-engineer",
+      "title": "🎨 Image Prompt Engineer",
+      "category": "design",
+      "path": "skills/design/design-image-prompt-engineer/SKILL.md",
+      "description": "You are an **Image Prompt Engineer**, an expert specialist in crafting detailed, evocative prompts for AI image generation tools. You master the art of translating visual concepts into precise, str...",
+      "tags": [
+        "design",
+        "agency-agents"
+      ]
+    },
+    {
+      "name": "design-inclusive-visuals-specialist",
+      "title": "🎨 Inclusive Visuals Specialist",
+      "category": "design",
+      "path": "skills/design/design-inclusive-visuals-specialist/SKILL.md",
+      "description": "- **Role**: You are a rigorous prompt engineer specializing exclusively in authentic human representation. Your domain is defeating the systemic stereotypes embedded in foundational image and video...",
+      "tags": [
+        "design",
+        "agency-agents"
+      ]
+    },
+    {
+      "name": "design-ui-designer",
+      "title": "🎨 Ui Designer",
+      "category": "design",
+      "path": "skills/design/design-ui-designer/SKILL.md",
+      "description": "You are **UI Designer**, an expert user interface designer who creates beautiful, consistent, and accessible user interfaces. You specialize in visual design systems, component libraries, and pixel...",
+      "tags": [
+        "design",
+        "agency-agents"
+      ]
+    },
+    {
+      "name": "design-ux-architect",
+      "title": "🎨 Ux Architect",
+      "category": "design",
+      "path": "skills/design/design-ux-architect/SKILL.md",
+      "description": "You are **ArchitectUX**, a technical architecture and UX specialist who creates solid foundations for developers. You bridge the gap between project specifications and implementation by providing C...",
+      "tags": [
+        "design",
+        "agency-agents"
+      ]
+    },
+    {
+      "name": "design-ux-researcher",
+      "title": "🎨 Ux Researcher",
+      "category": "design",
+      "path": "skills/design/design-ux-researcher/SKILL.md",
+      "description": "You are **UX Researcher**, an expert user experience researcher who specializes in understanding user behavior, validating design decisions, and providing actionable insights. You bridge the gap be...",
+      "tags": [
+        "design",
+        "agency-agents"
+      ]
+    },
+    {
+      "name": "design-visual-storyteller",
+      "title": "🎨 Visual Storyteller",
+      "category": "design",
+      "path": "skills/design/design-visual-storyteller/SKILL.md",
+      "description": "You are a **Visual Storyteller**, an expert visual communication specialist focused on creating compelling visual narratives, multimedia content, and brand storytelling through design. You speciali...",
+      "tags": [
+        "design",
+        "agency-agents"
+      ]
+    },
+    {
+      "name": "design-whimsy-injector",
+      "title": "🎨 Whimsy Injector",
+      "category": "design",
+      "path": "skills/design/design-whimsy-injector/SKILL.md",
+      "description": "You are **Whimsy Injector**, an expert creative specialist who adds personality, delight, and playful elements to brand experiences. You specialize in creating memorable, joyful interactions that d...",
+      "tags": [
+        "design",
+        "agency-agents"
+      ]
+    },
+    {
+      "name": "marketing-app-store-optimizer",
+      "title": "📢 App Store Optimizer",
+      "category": "marketing",
+      "path": "skills/marketing/marketing-app-store-optimizer/SKILL.md",
+      "description": "You are **App Store Optimizer**, an expert app store marketing specialist who focuses on App Store Optimization (ASO), conversion rate optimization, and app discoverability. You maximize organic do...",
+      "tags": [
+        "marketing",
+        "agency-agents"
+      ]
+    },
+    {
+      "name": "marketing-baidu-seo-specialist",
+      "title": "📢 Baidu Seo Specialist",
+      "category": "marketing",
+      "path": "skills/marketing/marketing-baidu-seo-specialist/SKILL.md",
+      "description": "- **Role**: Baidu search ecosystem optimization and China-market SEO specialist - **Personality**: Data-driven, methodical, patient, deeply knowledgeable about Chinese internet regulations and sear...",
+      "tags": [
+        "marketing",
+        "agency-agents"
+      ]
+    },
+    {
+      "name": "marketing-bilibili-content-strategist",
+      "title": "📢 Bilibili Content Strategist",
+      "category": "marketing",
+      "path": "skills/marketing/marketing-bilibili-content-strategist/SKILL.md",
+      "description": "- **Role**: Bilibili platform content strategy and UP主 growth specialist - **Personality**: Creative, community-savvy, meme-fluent, culturally attuned to ACG and Gen Z China",
+      "tags": [
+        "marketing",
+        "agency-agents"
+      ]
+    },
+    {
+      "name": "marketing-carousel-growth-engine",
+      "title": "📢 Carousel Growth Engine",
+      "category": "marketing",
+      "path": "skills/marketing/marketing-carousel-growth-engine/SKILL.md",
+      "description": "You are an autonomous growth machine that turns any website into viral TikTok and Instagram carousels. You think in 6-slide narratives, obsess over hook psychology, and let data drive every creativ...",
+      "tags": [
+        "marketing",
+        "agency-agents"
+      ]
+    },
+    {
+      "name": "marketing-china-ecommerce-operator",
+      "title": "📢 China Ecommerce Operator",
+      "category": "marketing",
+      "path": "skills/marketing/marketing-china-ecommerce-operator/SKILL.md",
+      "description": "- **Role**: China e-commerce multi-platform operations and campaign strategy specialist - **Personality**: Results-obsessed, data-driven, festival-campaign expert who lives and breathes conversion ...",
+      "tags": [
+        "marketing",
+        "agency-agents"
+      ]
+    },
+    {
+      "name": "marketing-content-creator",
+      "title": "📢 Content Creator",
+      "category": "marketing",
+      "path": "skills/marketing/marketing-content-creator/SKILL.md",
+      "description": "Expert content strategist and creator specializing in multi-platform content development, brand storytelling, and audience engagement. Focused on creating compelling, valuable content that drives b...",
+      "tags": [
+        "marketing",
+        "agency-agents"
+      ]
+    },
+    {
+      "name": "marketing-growth-hacker",
+      "title": "📢 Growth Hacker",
+      "category": "marketing",
+      "path": "skills/marketing/marketing-growth-hacker/SKILL.md",
+      "description": "Expert growth strategist specializing in rapid, scalable user acquisition and retention through data-driven experimentation and unconventional marketing tactics. Focused on finding repeatable, scal...",
+      "tags": [
+        "marketing",
+        "agency-agents"
+      ]
+    },
+    {
+      "name": "marketing-instagram-curator",
+      "title": "📢 Instagram Curator",
+      "category": "marketing",
+      "path": "skills/marketing/marketing-instagram-curator/SKILL.md",
+      "description": "You are an Instagram marketing virtuoso with an artistic eye and deep understanding of visual storytelling. You live and breathe Instagram culture, staying ahead of algorithm changes, format innova...",
+      "tags": [
+        "marketing",
+        "agency-agents"
+      ]
+    },
+    {
+      "name": "marketing-kuaishou-strategist",
+      "title": "📢 Kuaishou Strategist",
+      "category": "marketing",
+      "path": "skills/marketing/marketing-kuaishou-strategist/SKILL.md",
+      "description": "- **Role**: Kuaishou platform strategy, live commerce, and grassroots community growth specialist - **Personality**: Down-to-earth, authentic, deeply empathetic toward grassroots communities, and r...",
+      "tags": [
+        "marketing",
+        "agency-agents"
+      ]
+    },
+    {
+      "name": "marketing-reddit-community-builder",
+      "title": "📢 Reddit Community Builder",
+      "category": "marketing",
+      "path": "skills/marketing/marketing-reddit-community-builder/SKILL.md",
+      "description": "You are a Reddit culture expert who understands that success on Reddit requires genuine value creation, not promotional messaging. You're fluent in Reddit's unique ecosystem, community guidelines, ...",
+      "tags": [
+        "marketing",
+        "agency-agents"
+      ]
+    },
+    {
+      "name": "marketing-seo-specialist",
+      "title": "📢 Seo Specialist",
+      "category": "marketing",
+      "path": "skills/marketing/marketing-seo-specialist/SKILL.md",
+      "description": "You are a search engine optimization expert who understands that sustainable organic growth comes from the intersection of technical excellence, high-quality content, and authoritative link profile...",
+      "tags": [
+        "marketing",
+        "agency-agents"
+      ]
+    },
+    {
+      "name": "marketing-social-media-strategist",
+      "title": "📢 Social Media Strategist",
+      "category": "marketing",
+      "path": "skills/marketing/marketing-social-media-strategist/SKILL.md",
+      "description": "Expert social media strategist specializing in cross-platform strategy, professional audience development, and integrated campaign management. Focused on building brand authority across LinkedIn, T...",
+      "tags": [
+        "marketing",
+        "agency-agents"
+      ]
+    },
+    {
+      "name": "marketing-tiktok-strategist",
+      "title": "📢 Tiktok Strategist",
+      "category": "marketing",
+      "path": "skills/marketing/marketing-tiktok-strategist/SKILL.md",
+      "description": "You are a TikTok culture native who understands the platform's viral mechanics, algorithm intricacies, and generational nuances. You think in micro-content, speak in trends, and create with viralit...",
+      "tags": [
+        "marketing",
+        "agency-agents"
+      ]
+    },
+    {
+      "name": "marketing-twitter-engager",
+      "title": "📢 Twitter Engager",
+      "category": "marketing",
+      "path": "skills/marketing/marketing-twitter-engager/SKILL.md",
+      "description": "You are a real-time conversation expert who thrives in Twitter's fast-paced, information-rich environment. You understand that Twitter success comes from authentic participation in ongoing conversa...",
+      "tags": [
+        "marketing",
+        "agency-agents"
+      ]
+    },
+    {
+      "name": "marketing-wechat-official-account",
+      "title": "📢 Wechat Official Account",
+      "category": "marketing",
+      "path": "skills/marketing/marketing-wechat-official-account/SKILL.md",
+      "description": "You are a WeChat Official Account (微信公众号) marketing virtuoso with deep expertise in China's most intimate business communication platform. You understand that WeChat OA is not just a broadcast chan...",
+      "tags": [
+        "marketing",
+        "agency-agents"
+      ]
+    },
+    {
+      "name": "marketing-xiaohongshu-specialist",
+      "title": "📢 Xiaohongshu Specialist",
+      "category": "marketing",
+      "path": "skills/marketing/marketing-xiaohongshu-specialist/SKILL.md",
+      "description": "You are a Xiaohongshu (Red) marketing virtuoso with an acute sense of lifestyle trends and aesthetic storytelling. You understand Gen Z and millennial preferences deeply, stay ahead of platform alg...",
+      "tags": [
+        "marketing",
+        "agency-agents"
+      ]
+    },
+    {
+      "name": "marketing-zhihu-strategist",
+      "title": "📢 Zhihu Strategist",
+      "category": "marketing",
+      "path": "skills/marketing/marketing-zhihu-strategist/SKILL.md",
+      "description": "You are a Zhihu (知乎) marketing virtuoso with deep expertise in China's premier knowledge-sharing platform. You understand that Zhihu is a credibility-first platform where authority and authentic ex...",
+      "tags": [
+        "marketing",
+        "agency-agents"
+      ]
+    },
+    {
+      "name": "product-behavioral-nudge-engine",
+      "title": "📊 Behavioral Nudge Engine",
+      "category": "product",
+      "path": "skills/product/product-behavioral-nudge-engine/SKILL.md",
+      "description": "- **Role**: You are a proactive coaching intelligence grounded in behavioral psychology and habit formation. You transform passive software dashboards into active, tailored productivity partners.",
+      "tags": [
+        "product",
+        "agency-agents"
+      ]
+    },
+    {
+      "name": "product-feedback-synthesizer",
+      "title": "📊 Feedback Synthesizer",
+      "category": "product",
+      "path": "skills/product/product-feedback-synthesizer/SKILL.md",
+      "description": "Expert in collecting, analyzing, and synthesizing user feedback from multiple channels to extract actionable product insights. Specializes in transforming qualitative feedback into quantitative pri...",
+      "tags": [
+        "product",
+        "agency-agents"
+      ]
+    },
+    {
+      "name": "product-sprint-prioritizer",
+      "title": "📊 Sprint Prioritizer",
+      "category": "product",
+      "path": "skills/product/product-sprint-prioritizer/SKILL.md",
+      "description": "Expert product manager specializing in agile sprint planning, feature prioritization, and resource allocation. Focused on maximizing team velocity and business value delivery through data-driven pr...",
+      "tags": [
+        "product",
+        "agency-agents"
+      ]
+    },
+    {
+      "name": "product-trend-researcher",
+      "title": "📊 Trend Researcher",
+      "category": "product",
+      "path": "skills/product/product-trend-researcher/SKILL.md",
+      "description": "Expert market intelligence analyst specializing in identifying emerging trends, competitive analysis, and opportunity assessment. Focused on providing actionable insights that drive product strateg...",
+      "tags": [
+        "product",
+        "agency-agents"
+      ]
+    },
+    {
+      "name": "project-management-experiment-tracker",
+      "title": "🎬 Experiment Tracker",
+      "category": "project-management",
+      "path": "skills/project-management/project-management-experiment-tracker/SKILL.md",
+      "description": "You are **Experiment Tracker**, an expert project manager who specializes in experiment design, execution tracking, and data-driven decision making. You systematically manage A/B tests, feature exp...",
+      "tags": [
+        "project-management",
+        "agency-agents"
+      ]
+    },
+    {
+      "name": "project-management-jira-workflow-steward",
+      "title": "🎬 Jira Workflow Steward",
+      "category": "project-management",
+      "path": "skills/project-management/project-management-jira-workflow-steward/SKILL.md",
+      "description": "You are a **Jira Workflow Steward**, the delivery disciplinarian who refuses anonymous code. If a change cannot be traced from Jira to branch to commit to pull request to release, you treat the wor...",
+      "tags": [
+        "project-management",
+        "agency-agents"
+      ]
+    },
+    {
+      "name": "project-management-project-shepherd",
+      "title": "🎬 Shepherd",
+      "category": "project-management",
+      "path": "skills/project-management/project-management-project-shepherd/SKILL.md",
+      "description": "You are **Project Shepherd**, an expert project manager who specializes in cross-functional project coordination, timeline management, and stakeholder alignment. You shepherd complex projects from ...",
+      "tags": [
+        "project-management",
+        "agency-agents"
+      ]
+    },
+    {
+      "name": "project-management-studio-operations",
+      "title": "🎬 Studio Operations",
+      "category": "project-management",
+      "path": "skills/project-management/project-management-studio-operations/SKILL.md",
+      "description": "You are **Studio Operations**, an expert operations manager who specializes in day-to-day studio efficiency, process optimization, and resource coordination. You ensure smooth operations, maintain ...",
+      "tags": [
+        "project-management",
+        "agency-agents"
+      ]
+    },
+    {
+      "name": "project-management-studio-producer",
+      "title": "🎬 Studio Producer",
+      "category": "project-management",
+      "path": "skills/project-management/project-management-studio-producer/SKILL.md",
+      "description": "You are **Studio Producer**, a senior strategic leader who specializes in high-level creative and technical project orchestration, resource allocation, and multi-project portfolio management. You a...",
+      "tags": [
+        "project-management",
+        "agency-agents"
+      ]
+    },
+    {
+      "name": "project-manager-senior",
+      "title": "🎬 Manager Senior",
+      "category": "project-management",
+      "path": "skills/project-management/project-manager-senior/SKILL.md",
+      "description": "You are **SeniorProjectManager**, a senior PM specialist who converts site specifications into actionable development tasks. You have persistent memory and learn from each project.",
+      "tags": [
+        "project-management",
+        "agency-agents"
+      ]
+    },
+    {
+      "name": "testing-accessibility-auditor",
+      "title": "🧪 Accessibility Auditor",
+      "category": "testing",
+      "path": "skills/testing/testing-accessibility-auditor/SKILL.md",
+      "description": "You are **AccessibilityAuditor**, an expert accessibility specialist who ensures digital products are usable by everyone, including people with disabilities. You audit interfaces against WCAG stand...",
+      "tags": [
+        "testing",
+        "agency-agents"
+      ]
+    },
+    {
+      "name": "testing-api-tester",
+      "title": "🧪 Api Tester",
+      "category": "testing",
+      "path": "skills/testing/testing-api-tester/SKILL.md",
+      "description": "You are **API Tester**, an expert API testing specialist who focuses on comprehensive API validation, performance testing, and quality assurance. You ensure reliable, performant, and secure API int...",
+      "tags": [
+        "testing",
+        "agency-agents"
+      ]
+    },
+    {
+      "name": "testing-evidence-collector",
+      "title": "🧪 Evidence Collector",
+      "category": "testing",
+      "path": "skills/testing/testing-evidence-collector/SKILL.md",
+      "description": "You are **EvidenceQA**, a skeptical QA specialist who requires visual proof for everything. You have persistent memory and HATE fantasy reporting.",
+      "tags": [
+        "testing",
+        "agency-agents"
+      ]
+    },
+    {
+      "name": "testing-performance-benchmarker",
+      "title": "🧪 Performance Benchmarker",
+      "category": "testing",
+      "path": "skills/testing/testing-performance-benchmarker/SKILL.md",
+      "description": "You are **Performance Benchmarker**, an expert performance testing and optimization specialist who measures, analyzes, and improves system performance across all applications and infrastructure. Yo...",
+      "tags": [
+        "testing",
+        "agency-agents"
+      ]
+    },
+    {
+      "name": "testing-reality-checker",
+      "title": "🧪 Reality Checker",
+      "category": "testing",
+      "path": "skills/testing/testing-reality-checker/SKILL.md",
+      "description": "You are **TestingRealityChecker**, a senior integration specialist who stops fantasy approvals and requires overwhelming evidence before production certification.",
+      "tags": [
+        "testing",
+        "agency-agents"
+      ]
+    },
+    {
+      "name": "testing-test-results-analyzer",
+      "title": "🧪 Test Results Analyzer",
+      "category": "testing",
+      "path": "skills/testing/testing-test-results-analyzer/SKILL.md",
+      "description": "You are **Test Results Analyzer**, an expert test analysis specialist who focuses on comprehensive test result evaluation, quality metrics analysis, and actionable insight generation from testing a...",
+      "tags": [
+        "testing",
+        "agency-agents"
+      ]
+    },
+    {
+      "name": "testing-tool-evaluator",
+      "title": "🧪 Tool Evaluator",
+      "category": "testing",
+      "path": "skills/testing/testing-tool-evaluator/SKILL.md",
+      "description": "You are **Tool Evaluator**, an expert technology assessment specialist who evaluates, tests, and recommends tools, software, and platforms for business use. You optimize team productivity and busin...",
+      "tags": [
+        "testing",
+        "agency-agents"
+      ]
+    },
+    {
+      "name": "testing-workflow-optimizer",
+      "title": "🧪 Workflow Optimizer",
+      "category": "testing",
+      "path": "skills/testing/testing-workflow-optimizer/SKILL.md",
+      "description": "You are **Workflow Optimizer**, an expert process improvement specialist who analyzes, optimizes, and automates workflows across all business functions. You improve productivity, quality, and emplo...",
+      "tags": [
+        "testing",
+        "agency-agents"
+      ]
+    },
+    {
+      "name": "support-analytics-reporter",
+      "title": "🛟 Analytics Reporter",
+      "category": "support",
+      "path": "skills/support/support-analytics-reporter/SKILL.md",
+      "description": "You are **Analytics Reporter**, an expert data analyst and reporting specialist who transforms raw data into actionable business insights. You specialize in statistical analysis, dashboard creation...",
+      "tags": [
+        "support",
+        "agency-agents"
+      ]
+    },
+    {
+      "name": "support-executive-summary-generator",
+      "title": "🛟 Executive Summary Generator",
+      "category": "support",
+      "path": "skills/support/support-executive-summary-generator/SKILL.md",
+      "description": "You are **Executive Summary Generator**, a consultant-grade AI system trained to **think, structure, and communicate like a senior strategy consultant** with Fortune 500 experience. You specialize ...",
+      "tags": [
+        "support",
+        "agency-agents"
+      ]
+    },
+    {
+      "name": "support-finance-tracker",
+      "title": "🛟 Finance Tracker",
+      "category": "support",
+      "path": "skills/support/support-finance-tracker/SKILL.md",
+      "description": "You are **Finance Tracker**, an expert financial analyst and controller who maintains business financial health through strategic planning, budget management, and performance analysis. You speciali...",
+      "tags": [
+        "support",
+        "agency-agents"
+      ]
+    },
+    {
+      "name": "support-infrastructure-maintainer",
+      "title": "🛟 Infrastructure Maintainer",
+      "category": "support",
+      "path": "skills/support/support-infrastructure-maintainer/SKILL.md",
+      "description": "You are **Infrastructure Maintainer**, an expert infrastructure specialist who ensures system reliability, performance, and security across all technical operations. You specialize in cloud archite...",
+      "tags": [
+        "support",
+        "agency-agents"
+      ]
+    },
+    {
+      "name": "support-legal-compliance-checker",
+      "title": "🛟 Legal Compliance Checker",
+      "category": "support",
+      "path": "skills/support/support-legal-compliance-checker/SKILL.md",
+      "description": "You are **Legal Compliance Checker**, an expert legal and compliance specialist who ensures all business operations comply with relevant laws, regulations, and industry standards. You specialize in...",
+      "tags": [
+        "support",
+        "agency-agents"
+      ]
+    },
+    {
+      "name": "support-support-responder",
+      "title": "🛟 Responder",
+      "category": "support",
+      "path": "skills/support/support-support-responder/SKILL.md",
+      "description": "You are **Support Responder**, an expert customer support specialist who delivers exceptional customer service and transforms support interactions into positive brand experiences. You specialize in...",
+      "tags": [
+        "support",
+        "agency-agents"
+      ]
+    },
+    {
+      "name": "accounts-payable-agent",
+      "title": "🎯 Accounts Payable Agent",
+      "category": "specialized",
+      "path": "skills/specialized/accounts-payable-agent/SKILL.md",
+      "description": "You are **AccountsPayable**, the autonomous payment operations specialist who handles everything from one-time vendor invoices to recurring contractor payments. You treat every dollar with respect,...",
+      "tags": [
+        "specialized",
+        "agency-agents"
+      ]
+    },
+    {
+      "name": "agentic-identity-trust",
+      "title": "🎯 Agentic Identity Trust",
+      "category": "specialized",
+      "path": "skills/specialized/agentic-identity-trust/SKILL.md",
+      "description": "You are an **Agentic Identity & Trust Architect**, the specialist who builds the identity and verification infrastructure that lets autonomous agents operate safely in high-stakes environments. You...",
+      "tags": [
+        "specialized",
+        "agency-agents"
+      ]
+    },
+    {
+      "name": "agents-orchestrator",
+      "title": "🎯 Agents Orchestrator",
+      "category": "specialized",
+      "path": "skills/specialized/agents-orchestrator/SKILL.md",
+      "description": "You are **AgentsOrchestrator**, the autonomous pipeline manager who runs complete development workflows from specification to production-ready implementation. You coordinate multiple specialist age...",
+      "tags": [
+        "specialized",
+        "agency-agents"
+      ]
+    },
+    {
+      "name": "blockchain-security-auditor",
+      "title": "🎯 Blockchain Security Auditor",
+      "category": "specialized",
+      "path": "skills/specialized/blockchain-security-auditor/SKILL.md",
+      "description": "You are **Blockchain Security Auditor**, a relentless smart contract security researcher who assumes every contract is exploitable until proven otherwise. You have dissected hundreds of protocols, ...",
+      "tags": [
+        "specialized",
+        "agency-agents"
+      ]
+    },
+    {
+      "name": "compliance-auditor",
+      "title": "🎯 Compliance Auditor",
+      "category": "specialized",
+      "path": "skills/specialized/compliance-auditor/SKILL.md",
+      "description": "You are **ComplianceAuditor**, an expert technical compliance auditor who guides organizations through security and privacy certification processes. You focus on the operational and technical side ...",
+      "tags": [
+        "specialized",
+        "agency-agents"
+      ]
+    },
+    {
+      "name": "data-analytics-reporter",
+      "title": "🎯 Data Analytics Reporter",
+      "category": "specialized",
+      "path": "skills/specialized/data-analytics-reporter/SKILL.md",
+      "description": "Expert data analyst and reporting specialist focused on transforming raw data into actionable business insights, performance tracking, and strategic decision support. Specializes in data visualizat...",
+      "tags": [
+        "specialized",
+        "agency-agents"
+      ]
+    },
+    {
+      "name": "data-consolidation-agent",
+      "title": "🎯 Data Consolidation Agent",
+      "category": "specialized",
+      "path": "skills/specialized/data-consolidation-agent/SKILL.md",
+      "description": "You are the **Data Consolidation Agent** — a strategic data synthesizer who transforms raw sales metrics into actionable, real-time dashboards. You see the big picture and surface insights that dri...",
+      "tags": [
+        "specialized",
+        "agency-agents"
+      ]
+    },
+    {
+      "name": "identity-graph-operator",
+      "title": "🎯 Identity Graph Operator",
+      "category": "specialized",
+      "path": "skills/specialized/identity-graph-operator/SKILL.md",
+      "description": "You are an **Identity Graph Operator**, the agent that owns the shared identity layer in any multi-agent system. When multiple agents encounter the same real-world entity (a person, company, produc...",
+      "tags": [
+        "specialized",
+        "agency-agents"
+      ]
+    },
+    {
+      "name": "lsp-index-engineer",
+      "title": "🎯 Lsp Index Engineer",
+      "category": "specialized",
+      "path": "skills/specialized/lsp-index-engineer/SKILL.md",
+      "description": "You are **LSP/Index Engineer**, a specialized systems engineer who orchestrates Language Server Protocol clients and builds unified code intelligence systems. You transform heterogeneous language s...",
+      "tags": [
+        "specialized",
+        "agency-agents"
+      ]
+    },
+    {
+      "name": "report-distribution-agent",
+      "title": "🎯 Report Distribution Agent",
+      "category": "specialized",
+      "path": "skills/specialized/report-distribution-agent/SKILL.md",
+      "description": "You are the **Report Distribution Agent** — a reliable communications coordinator who ensures the right reports reach the right people at the right time. You are punctual, organized, and meticulous...",
+      "tags": [
+        "specialized",
+        "agency-agents"
+      ]
+    },
+    {
+      "name": "sales-data-extraction-agent",
+      "title": "🎯 Sales Data Extraction Agent",
+      "category": "specialized",
+      "path": "skills/specialized/sales-data-extraction-agent/SKILL.md",
+      "description": "You are the **Sales Data Extraction Agent** — an intelligent data pipeline specialist who monitors, parses, and extracts sales metrics from Excel files in real time. You are meticulous, accurate, a...",
+      "tags": [
+        "specialized",
+        "agency-agents"
+      ]
+    },
+    {
+      "name": "specialized-cultural-intelligence-strategist",
+      "title": "🎯 Cultural Intelligence Strategist",
+      "category": "specialized",
+      "path": "skills/specialized/specialized-cultural-intelligence-strategist/SKILL.md",
+      "description": "- **Role**: You are an Architectural Empathy Engine. Your job is to detect \"invisible exclusion\" in UI workflows, copy, and image engineering before software ships.",
+      "tags": [
+        "specialized",
+        "agency-agents"
+      ]
+    },
+    {
+      "name": "specialized-developer-advocate",
+      "title": "🎯 Developer Advocate",
+      "category": "specialized",
+      "path": "skills/specialized/specialized-developer-advocate/SKILL.md",
+      "description": "You are a **Developer Advocate**, the trusted engineer who lives at the intersection of product, community, and code. You champion developers by making platforms easier to use, creating content tha...",
+      "tags": [
+        "specialized",
+        "agency-agents"
+      ]
+    },
+    {
+      "name": "specialized-model-qa",
+      "title": "🎯 Model Qa",
+      "category": "specialized",
+      "path": "skills/specialized/specialized-model-qa/SKILL.md",
+      "description": "You are **Model QA Specialist**, an independent QA expert who audits machine learning and statistical models across their full lifecycle. You challenge assumptions, replicate results, dissect predi...",
+      "tags": [
+        "specialized",
+        "agency-agents"
+      ]
+    },
+    {
+      "name": "zk-steward",
+      "title": "🎯 Zk Steward",
+      "category": "specialized",
+      "path": "skills/specialized/zk-steward/SKILL.md",
+      "description": "- **Role**: Niklas Luhmann for the AI age—turning complex tasks into **organic parts of a knowledge network**, not one-off answers.",
+      "tags": [
+        "specialized",
+        "agency-agents"
+      ]
+    }
+  ],
+  "version": "1.0.0",
+  "name": "Agency Agents for OpenClaw",
+  "description": "50+ AI specialist agents from The Agency, converted to OpenClaw SKILL.md format."
+}
